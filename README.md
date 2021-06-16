@@ -1,6 +1,6 @@
 # Name It
 
-a very cool project
+A very cool project
 
 ## Resources
 
