@@ -1,6 +1,8 @@
 # Name It
 
-A very cool project
+A very cool project  
+Check It Here -
+http://HarshaK1302.github.io/startup-name-generator/
 
 ## Resources
 
