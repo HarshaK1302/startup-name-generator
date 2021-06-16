@@ -1,4 +1,10 @@
-# Name It
+# Startup Name Generator
+
+#A frontend Raect Project by Harsha
+
+Getting started with learning React Js
+
+This application is used to generate unique names for web Apps and in creating the domains for it.
 
 A very cool project  
 Check It Here -
